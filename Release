@@ -1,8 +1,0 @@
-Origin: Rou2ter1217
-Label: Rou2ter1217
-Suite: stable
-Version: 1.0
-Codename: ios
-Architectures: iphoneos-arm
-Components: main
-Description: Rou2ter1217 - a modern cydia / sileo apt repository template
