@@ -1,0 +1,48 @@
+Package: com.supermamon.newpackage
+Version: 2.0.0-1
+Architecture: iphoneos-arm
+Maintainer: Reposi3 <reposithree@gmail.com>
+Depends: firmware (>7.0), mobilesubstrate
+Filename: ./debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm.deb
+Size: 854
+MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
+SHA1: 46bbcd314f5bcb29e05e287f08fe50e6547ea401
+SHA256: b01c426f4e262c901fd0a9dce060d89327af05bdbd203ce7527c133c1bc8cafd
+Section: Tweaks
+Description: This is a sample new package. Firmware should be greater than 7.0
+Author: Reposi3 <reposithree@gmail.com>
+Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
+Name: New Package
+
+Package: com.supermamon.oldpackage
+Version: 1.0.0-1
+Architecture: iphoneos-arm
+Maintainer: Reposi3 <reposithree@gmail.com>
+Depends: firmware (<7.0)
+Filename: ./debs/com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb
+Size: 860
+MD5sum: 8c606f0c05217aa2a20949091fe516f0
+SHA1: 44f945218a8f72e24ad69191bfee4a89bb7e9bc0
+SHA256: 2d0cf4ea9ddc1d1be3968c869ddd29bd850eae37ccd9b35d100f72b7aca62f8e
+Section: Tweaks
+Description: This is a sample old package. Firmware should be lower than 7.0
+Author: Reposi3 <reposithree@gmail.com>
+Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
+Name: Old Package
+
+Package: io.rou2ter-1217.xinatouch
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: CyPwn
+Depends: firmware (>= 15.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>> 1.0.6), xinaa15 | xyz.cypwn.xinaa15
+Filename: ./debs/io.rou2ter-1217.github.xinatouch_1.0_iphoneos-arm.deb
+Size: 27757240
+MD5sum: 841ff185ec72881c94d52e31f8851d76
+SHA1: 67b25c31029ad61c342a2878b7896b2f3afc5717
+SHA256: c83a470f924c71c41c4dd09b333cb92527f4d4931d822d2a6327375e23f0ec0d
+Section: Tweaks
+Description: AutoTouch for Xina
+Author: Kent Krantz
+Icon: https://repo.cypwn.xyz/assets/repo/Featured/xinatouch.png
+Name: XinaTouch
+
