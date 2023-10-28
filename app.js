@@ -52,14 +52,14 @@ function load() {
         document.body.classList.add("dark-mode");
       }
 
-      title.textContent = "Dark mode";
+      title.textContent = "Rou2ter1217";
       logo.style.offsetPath = calculatePath();
     } else {
       if (hasClass) {
         document.body.classList.remove("dark-mode");
       }
 
-      title.textContent = "Light mode";
+      title.textContent = "Rou2ter1217";
       logo.style.offsetPath = "none";
     }
   }
