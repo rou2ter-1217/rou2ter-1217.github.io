@@ -34,17 +34,17 @@
 				},
 				{
 					"title": "Developer",
-					"text": "Rou2ter1217",
+					"text": "DEVELOPER_NAME",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Website",
-					"action": "https://rou2ter-1217.github.io/",
+					"action": "WEBSITE_HERE",
 					"class": "DepictionTableButtonView"
 				},
 				{
 					"title": "Use This Template",
-					"action": "https://rou2ter-1217.github.io/",
+					"action": "https://github.com/sukarodo/Sidia",
 					"class": "DepictionTableButtonView"
 				},
 				{
