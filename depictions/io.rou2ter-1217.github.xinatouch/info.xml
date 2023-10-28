@@ -1,0 +1,23 @@
+<package>
+	<id>io.rou2ter-1217.github.xinatouch</id>
+	<name>AutoTouch</name>
+	<version>1.0.0-1</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>15.1.1</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>This is an old package. Requires iOS 15.0-15.1.1</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>test changelog</change>
+	</changelog>
+	<links></links>
+</package>
